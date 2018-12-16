@@ -1,0 +1,13 @@
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.deps.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.runtimeconfig.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.runtimeconfig.dev.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.dll
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.pdb
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.RazorAssemblyInfo.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.RazorAssemblyInfo.cs
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.AssemblyInfoInputs.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.AssemblyInfo.cs
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.dll
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\PollyAvailabilityInMicroservice.pdb

@@ -1,0 +1,14 @@
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\AvailabilityInMicroservice.deps.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\AvailabilityInMicroservice.runtimeconfig.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\AvailabilityInMicroservice.runtimeconfig.dev.json
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\AvailabilityInMicroservice.dll
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\bin\Debug\netcoreapp2.1\AvailabilityInMicroservice.pdb
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.RazorAssemblyInfo.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.RazorAssemblyInfo.cs
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.AssemblyInfoInputs.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.AssemblyInfo.cs
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.dll
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.pdb
+C:\Users\OMID\Source\Repos\AvalabilityInMicroservices\AvailabilityInMicroservice\obj\Debug\netcoreapp2.1\AvailabilityInMicroservice.csprojAssemblyReference.cache
