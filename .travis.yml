@@ -4,3 +4,7 @@ dotnet: 2.1.502
 script:
  - dotnet restore
  - dotnet build
+after_success:
+ - dotnet tool install Octopus.DotNet.cli --global
+ - dotnet octo pack --id="pollyAvailability" --version="1.0.0"
+ - curl -X POST https://workshop.octopus.app/api/packages/raw -H "X-Octopus-ApiKey: API-QZPJGS9HBXS3HFTXJSURUAMRFK" -F "data=@test.1.0.0.zip"
