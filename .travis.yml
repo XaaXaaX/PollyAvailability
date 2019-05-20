@@ -7,12 +7,12 @@ script:
  - dotnet publish
 before_deploy:
   # Set up git user name and tag this commit
-  - git config --local user.name "YOUR GIT USER NAME"
-  - git config --local user.email "YOUR GIT USER EMAIL"
+  - git config --local user.name "xaaxaax"
+  - git config --local user.email "eidivandi@live.com"
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
   - git tag $TRAVIS_TAG
 deploy:
   provider: releases
-  api_key: "4ef759ae7407cf61410feb893d0d53fd4e1bd38d"
+  api_key: 4ef759ae7407cf61410feb893d0d53fd4e1bd38d
   file: "test11111111"
   skip_cleanup: true 
